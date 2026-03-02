@@ -19,7 +19,7 @@ Step 1: Open the hood of the vehicle.
 
 Step 2: Locate the engine air filter housing.
 
-![Air filter](engine_ariflter.png)
+![Air filter](artifact/engine_ariflter.png)
 
 Step 3: Unfasten the clips or latches on the air filter housing.
 **Do not remove the housing completely**.
